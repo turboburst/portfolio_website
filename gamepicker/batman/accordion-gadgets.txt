@@ -1,0 +1,20 @@
+
+Shock Gloves
+<p>Batman's newest weapon is easily his most effective. While not an instant &quot;I win&quot; button, the Shock Gloves are ridiculously effective, breaking through all defenses and allowing Batman to attack previously unblockable foes. Shock Gloves begin an encounter disarmed and charge as your combos progress, and reach an activation combat after you land several blows. Once switched on, they deal tremendous damage, damaging even bosses with relative ease.</p>
+<p>As a secondary function, Shock Gloves can charge capacitors to activate some machines.</p>
+
+Batarang
+<p>Batarangs are stunning shuriken employed by the Batman. Batarangs do very little damage on their own, but knock many enemies to the ground where they are vulnerable to takedown.</p>
+<p>Batarangs are also useful for hitting switches from a distance. In sufficient quantity they can incapacitate single foes.</p>
+
+Remote Controlled Batarang
+<p>The Remote Controlled Batarang is mostly a puzzle-solving tool. Thrown through an electrical field, it can short out fuse boxes, opening doors. Its controls are aircraft style, operating inverted.</p>
+
+Gas Pellets
+<p>Gas Pellets render your foes blind for a few seconds. Thrown next to a foe, they allow Batman to attack with Detective Vision with little chance of being counter-attacked. Thrown next to Batman, they protect him from gunfire for a short time.</p>
+<p>Gas Pellets disperse after a few seconds of use. </p>
+
+Batclaw
+<p>The Batclaw allows Batman to climb to high ledges and swing between Vantage Points. The Batclaw also allows the user to attack single enemies, slamming them into hard objects. The rope can also be used to tear Vents from walls. Additionally, the Batclaw can help Batman direct any raft he is standing on by grappling and pulling toward the desired grapple point.</p>
+<p>When upgraded, the Batclaw can also disarm opponents.</p>
+

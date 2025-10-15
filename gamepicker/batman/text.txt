@@ -1,0 +1,60 @@
+	
+  <h1>Batman: Arkham Origins</h1>
+	
+  <p><strong>Batman: Arkham Origins</strong> is a prequel to <a href="#">Batman: Arkham Asylum</a> and <a href="#">Batman: Arkham City</a>. Arkham Origins was released October 25, 2013 for the PC, PlayStation 3, Xbox 360 and Wii U. This title will not be appearing on the Xbox One or the Playstation 4.</p>
+  <p>As the title suggests, Batman: Arkham Origins takes place long before both of the existing Arkham titles, when a young and inexperienced Batman will encounter many villains for the first time. Arkham Origins follows Batman through a variety of familiar locales throughout Gotham City.</p>
+  <h2>Characters</h2>
+  <p><strong>Batman: Arkham Origins</strong> includes a large cast of Characters.</p>
+
+  <div class="accordion" id="characters">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingOne">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+        Accordion Item #1
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#characters">
+      <div class="accordion-body">
+        <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingTwo">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        Accordion Item #2
+      </button>
+    </h2>
+    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#characters">
+      <div class="accordion-body">
+        <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingThree">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+        Accordion Item #3
+      </button>
+    </h2>
+    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#characters">
+      <div class="accordion-body">
+        <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+      </div>
+    </div>
+  </div>
+</div>
+	
+  <h2>Gadgets</h2>
+  <p>In <strong>Batman: Arkham Origins</strong>, the Caped Crusader supplements his intellect and training with an arsenal of non-lethal weapons and utility-belt gadgets. </p>
+  <p>Though many sequences in Batman require fistacuffs, some puzzles can only be solved through gadgets. Additionally, Batman’s distance weapons can soften up a group of enemies and equalize an otherwise dangerous melee encounter.</p>
+	
+  [insert accordion-gadgets]
+	
+  <h2>Challenges</h2>
+  <p><strong>Batman: Arkham Origins</strong> includes three types of special Challenges: Combat Training, Combat Challenges, and Predator Challenges.</p>
+  <p>The goal in challenge mode is to earn all 288 medals. You can play the same challenge in different modes (Ranked, Campaign, Custom) to earn new medals. The requirements will always be the same for each map, no matter what mode you are playing.</p>
+  <p>Beat the story and play through campaign challenge mode (which is a mix of combat and predator) to unlock all 24 challenge maps. </p>
+	
+  [insert accordion-challenges]
+	

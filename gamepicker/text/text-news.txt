@@ -1,0 +1,31 @@
+	
+<h1>News</h1>
+
+[news1-batman-thumb.jpg]
+<h2>Batman Arkham Origins: What You Need to Know</h2>
+<p>From fistfights to Predator missions to leveling up, we've got you covered. <a href="#" title="go to article"><i class="bi bi-arrow-right-square-fill"></i></a></p>
+
+[news2-dark-souls-thumb.jpg]
+<h2>Dark Souls 2 Network Test Rescheduled by Namco</h2>
+<p>Namco Bandai America reschedules network test for North and South America. <a href="#" title="go to article"><i class="bi bi-arrow-right-square-fill"></i></a></p>
+
+[news3-pikachu-thumb.jpg]
+<h2>Pikachu: Not the Best Pokemon?</h2>
+<p>Pikachu is currently resting at #66 in the Pokemon Face-Off. It's not over yet: Vote! <a href="#" title="go to article"><i class="bi bi-arrow-right-square-fill"></i></a></p>
+
+[news4-battlefield-thumb.jpg]
+<h2>Battlefield 3 preorders hit 1.25 million</h2>
+<p>EA CFO Eric Brown touts platinum sales figures for DICE's shooter with more than a month until launch; taking wait-and-see tack for $50 Call of Duty Elite rival. <a href="#" title="go to article"><i class="bi bi-arrow-right-square-fill"></i></a></p>
+
+[news5-madden-thumb.jpg]
+<h2>Madden NFL 12 scores 1.4 million first-week sales</h2>
+<p>Pigskin sim's first-week revenues jump 16 percent over Madden NFL 10 despite selling half a million fewer copies; digital revenues continue climbing. <a href="#" title="go to article"><i class="bi bi-arrow-right-square-fill"></i></a></p>
+
+[news6-gameofthrones-thumb.jpg]
+<h2>Game of Thrones ascending Sept. 29</h2>
+<p>Cyanide's RTS interpretation of George R.R. Martin-created fantasy universe arriving at retail, online this month. <a href="#" title="go to article"><i class="bi bi-arrow-right-square-fill"></i></a></p>
+
+[news7-saintsrow-thumb.jpg]
+<h2>Saints Row: The Third preorders doubling predecessor</h2>
+<p>THQ CFO Paul Pucino says Saints Row II sales nearing 4.5 million; Turtle Rock Studios title due after April 2013. <a href="#" title="go to article"><i class="bi bi-arrow-right-square-fill"></i></a></p>
+
