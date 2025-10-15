@@ -1,0 +1,40 @@
+  <h1>Our Products</h1>
+  <p class="description">We make our baked goods the old-fashioned way: from scratch, in small batches, and using the finest ingredients.</p>
+  <div class="container-products">
+    <figure> <img src="images/products/1.jpg" alt="" width="640" height="768">
+      <figcaption>Walnut Chocolate Chip</figcaption>
+    </figure>
+    <figure> <img src="images/products/2.jpg" alt="" width="640" height="768">
+      <figcaption>Double Chocolate Cookies</figcaption>
+    </figure>
+    <figure><img src="images/products/3.jpg" alt="" width="640" height="768">
+      <figcaption>Brownies</figcaption>
+    </figure>
+    <figure> <img src="images/products/4.jpg" alt="" width="640" height="768">
+      <figcaption>Hello Dollies</figcaption>
+    </figure>
+    <figure> <img src="images/products/5.jpg" alt="" width="640" height="768">
+      <figcaption>Cinnamon Rolls</figcaption>
+    </figure>
+    <figure> <img src="images/products/6.jpg" alt="" width="640" height="768">
+      <figcaption>Lemon Pie</figcaption>
+    </figure>
+    <figure> <img src="images/products/7.jpg" alt="" width="640" height="768">
+      <figcaption>Banana Cake</figcaption>
+    </figure>
+    <figure> <img src="images/products/8.jpg" alt="" width="640" height="768">
+      <figcaption>Pumpkin Cake</figcaption>
+    </figure>
+    <figure> <img src="images/products/9.jpg" alt="" width="640" height="768">
+      <figcaption>Cheese Cake</figcaption>
+    </figure>
+    <figure> <img src="images/products/10.jpg" alt="" width="640" height="768">
+      <figcaption>Passionfruit Pie</figcaption>
+    </figure>
+    <figure> <img src="images/products/11.jpg" alt="" width="640" height="768">
+      <figcaption>Coconut Cake</figcaption>
+    </figure>
+    <figure> <img src="images/products/12.jpg" alt="" width="640" height="768">
+      <figcaption>Seeded Bread</figcaption>
+    </figure>
+  </div>

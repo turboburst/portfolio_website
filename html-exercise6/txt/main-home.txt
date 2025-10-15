@@ -1,0 +1,44 @@
+  <section class="banner">
+    <div class="intro">
+      <h1>Welcome</h1>
+      <p class="description">We offer fresh and high quality baked goods in Long Beach, California. So please enjoy – and have a good morning.</p>
+    </div>
+    <img src="images/home/banner-1.jpg" alt="" width="1280" height="720"> </section>
+  <section class="occasions">
+    <h1>Treats for any Occasion</h1>
+    <p class="description">We’ve got you covered for any holiday, special occasion, or cause for celebration.</p>
+    <div class="container-occasions">
+      <figure><img src="images/home/occasions/catering.jpg" alt="" width="1200" height="856">
+        <figcaption>Catering</figcaption>
+      </figure>
+      <figure> <img src="images/home/occasions/gift-cards.jpg" alt="" width="1200" height="856">
+        <figcaption>Gift Cards</figcaption>
+      </figure>
+      <figure> <img src="images/home/occasions/birthday.jpg" alt="" width="1200" height="856">
+        <figcaption>Birthday</figcaption>
+      </figure>
+      <figure> <img src="images/home/occasions/best-sellers.jpg" alt="" width="1200" height="856">
+        <figcaption>Best Sellers</figcaption>
+      </figure>
+    </div>
+  </section>
+  <section class="testimonials">
+    <h1>Testimonials</h1>
+    <div class="container-testimonials">
+      <div>
+        <p class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</p>
+        <p>Ordered the strawberry shortcake for a birthday and all I can say is WOW! Honestly one of the best cakes I’ve ever had. It was incredibly fresh and the taste and texture was fantastic. Will 100% be going back and would strongly recommend to anyone thinking of buying a cake!</p>
+        <p class="byline">&#8212; Kylo</p>
+      </div>
+      <div>
+        <p class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</p>
+        <p>We were walking by on the way back from brunch and the smell drew me in. I wasn't even hungry mind you but it all just smelt too good to not get food!  We ordered the mini donuts and a few cookies and oh my godddd I wish we ordered more!</p>
+        <p class="byline">&#8212; Nevaeh</p>
+      </div>
+      <div>
+        <p class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</p>
+        <p>I wanted to send you a quick note to give an immense thank you to the team! My sister got engaged a few weeks ago. Not only did she and her new fiancé love the funfetti cake, she cried when she opened the box at the message. Thank you again and I will forever be a supporter of you!</p>
+        <p class="byline">&#8212; Adelynn</p>
+      </div>
+    </div>
+  </section>
