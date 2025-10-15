@@ -1,0 +1,72 @@
+@charset "utf-8";
+body {
+  background-color: #BCD471;
+  font-family: oculi-text, sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+#home, #england, #france, #germany, #ireland, #italy, #scotland, #spain, #sweden, #contact {
+  scroll-margin-top: 460px;
+}
+h1, h2, h3, h4, strong, figcaption {
+  color: #48551F;
+  font-family: oculi-text, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+hr {
+  border: 2px dashed #802619;
+  width: 80%;
+  margin: auto;
+}
+.bg-light {
+  background-color: #F7FFDD !important;
+}
+footer {
+  background-color: #F7FFDD;
+}
+a:link {
+  color: #667F19;
+}
+a:hover {
+  color: #FFBCB3 !important;
+}
+.navbar {
+  -webkit-box-shadow: 3px 3px 4px 2px #3A3A3A;
+  box-shadow: 3px 3px 4px 2px #3A3A3A;
+}
+.nav-link {
+  color: #194180 !important;
+}
+.nav-link:hover, .nav-link:focus {
+  color: #FFBCB3 !important;
+}
+.navbar-nav .show > .nav-link, .navbar-nav .active > .nav-link, .nav-link.show, .nav-link.active {
+  color: #802619 !important;
+}
+.container h1 {
+  text-align: center;
+  color: white;
+  text-shadow: 3px 2px 2px black;
+}
+.contact_main_container {
+  position: static !important;
+}
+.contact_main_h1 {
+  position: static !important;
+  color: #48551F !important;
+}
+.card-img {
+  -webkit-box-shadow: 3px 3px 5px 2px #343434;
+  box-shadow: 3px 3px 5px 2px #343434;
+}
+:focus {
+  outline: 3px solid red;
+  background-color: darkseagreen;
+}
+@media screen and (min-width:992px){
+	#home, #england, #france, #germany, #ireland, #italy, #scotland, #spain, #sweden, #contact {
+		
+  		scroll-margin-top: 60px;
+	}
+}
